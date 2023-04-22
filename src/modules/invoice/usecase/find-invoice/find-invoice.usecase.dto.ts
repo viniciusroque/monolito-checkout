@@ -1,4 +1,3 @@
-// DTO Find
 export interface FindInvoiceUseCaseInputDTO {
   id: string;
 }
